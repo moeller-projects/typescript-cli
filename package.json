@@ -1,0 +1,17 @@
+{
+  "name": "typescript-cli",
+  "version": "0.0.1",
+  "description": "a typescript cli",
+  "main": "index.ts",
+  "repository": "todo",
+  "author": "Lukas Möller",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "typescript": "^4.9.5"
+  },
+  "scripts": {
+    "tsc": "tsc"
+  }
+}
